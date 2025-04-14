@@ -1,5 +1,5 @@
 sentence-transformers
 numpy
-pytorch
+torch
 Flask
 gunicorn
